@@ -1,0 +1,23 @@
+/* .col-8 {
+    background: #cae1f3
+} */
+
+.card {
+    transition: 1s all ease;
+}
+
+.card:hover {
+    background-color: #ffffff !important;
+    /* color: white; */
+}
+
+
+
+.thana__table thead tr th {
+    text-align: center;
+    white-space: nowrap;
+    font-size: 15px;
+    font-weight: 500;
+    background: #1d7008;
+    color: #eeeaea
+}
